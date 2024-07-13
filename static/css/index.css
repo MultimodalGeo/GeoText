@@ -165,8 +165,8 @@ body {
 }
 
 .publication-image img {
-  max-width: 100%;
+  max-width: 130%;
   height: auto;
-  border: 1px solid #ccc; /* 添加边框 */
-  padding: 5px; /* 添加内边距 */
+  border: none; /* 去除边框 */
+  padding: 0; /* 去除内边距 */
 }
