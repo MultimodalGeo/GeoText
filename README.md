@@ -1,6 +1,6 @@
-# Nerfies
+# GeoText-1652
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [GeoText-1652 website](https://nerfies.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
