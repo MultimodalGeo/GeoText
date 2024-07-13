@@ -172,5 +172,5 @@ body {
 }
 
 .publication-image img:hover {
-  transform: scale(1.2); /* 放大图片 */
+  transform: scale(1.4); /* 放大图片 */
 }
