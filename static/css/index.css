@@ -155,3 +155,18 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+
+.publication-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.publication-image img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc; /* 添加边框 */
+  padding: 5px; /* 添加内边距 */
+}
